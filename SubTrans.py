@@ -62,7 +62,7 @@ def req_trans(var: list, srt: bool):
 
 #Introdução:
 print('Seja Bem Vindo ao SubTrans!')
-print('By: Arthur Reis\n')
+print('By: Arthur Speziali\n')
 sleep(1)
 
 print('Este programa traduz as suas legendas para qualquer idioma do mundo!')
